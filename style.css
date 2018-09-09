@@ -24,4 +24,7 @@ figcaption{
 }
 #details{
   display: block;
+  float: left;
+  width: 25%;
+  background: blue;
 }
