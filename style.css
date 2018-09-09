@@ -14,3 +14,14 @@ nav a{
 img{
   text-align: center;
 }
+
+figcaption{
+  font-size: 10px;
+}
+#featured-proprty{
+  width: 800px;
+  text-align: center;
+}
+#details{
+  display: block;
+}
